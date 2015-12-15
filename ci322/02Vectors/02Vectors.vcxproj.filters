@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\ci322\CI322Tutorials15-16\src\02Vectors\02Vectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\ci322\CI322Tutorials15-16\src\02Vectors\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{508FA16D-A0E1-4569-8678-8181A96038E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

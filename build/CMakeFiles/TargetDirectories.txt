@@ -1,0 +1,7 @@
+C:/build/01SimpleExample/CMakeFiles/01SimpleExample.dir
+C:/build/04SettingComplexScene/CMakeFiles/04SettingComplexScene.dir
+C:/build/02Vectors/CMakeFiles/02Vectors.dir
+C:/build/CMakeFiles/ALL_BUILD.dir
+C:/build/05Transformations/CMakeFiles/05Transformations.dir
+C:/build/03SettingScene/CMakeFiles/03SettingScene.dir
+C:/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,14 @@
+﻿Build started 15/12/2015 14:23:15.
+     1>Project "C:\build\04SettingComplexScene\04SettingComplexScene.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenSG\include /IC:\OpenSG\include\OpenSG /I"C:\OpenSG.Support\include\boost-1_44" /IC:\OpenSG.Support\include /Zi /nologo /W1 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"04SettingComplexScene.dir\Debug\\" /Fd"04SettingComplexScene.dir\Debug\vc110.pdb" /Gd /TP /errorReport:prompt "H:\ci322\CI322Tutorials15-16\src\04SettingComplexScene\04SettingComplexScene.cpp"
+         04SettingComplexScene.cpp
+         Unknown compiler version - please run the configure tests and report the results
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\build\04SettingComplexScene\Debug\04SettingComplexScene.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:/OpenSG.Support/lib /LIBPATH:C:/OpenSG.Support/lib/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib C:\OpenSG\lib\debug\OSGBaseD.lib C:\OpenSG\lib\debug\OSGClusterD.lib C:\OpenSG\lib\debug\OSGDrawableD.lib C:\OpenSG\lib\debug\OSGFileIOD.lib C:\OpenSG\lib\debug\OSGGroupD.lib C:\OpenSG\lib\debug\OSGStateD.lib C:\OpenSG\lib\debug\OSGSystemD.lib C:\OpenSG\lib\debug\OSGUtilD.lib C:\OpenSG\lib\debug\OSGWindowD.lib C:\OpenSG\lib\debug\OSGWindowGLUTD.lib osgglutD.lib "libboost_system-vc110-mt-gd.lib" /NODEFAULTLIB:freeglut.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/build/04SettingComplexScene/Debug/04SettingComplexScene.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/build/04SettingComplexScene/Debug/04SettingComplexScene.lib" /MACHINE:X64  /debug 04SettingComplexScene.dir\Debug\04SettingComplexScene.obj
+         04SettingComplexScene.vcxproj -> C:\build\04SettingComplexScene\Debug\04SettingComplexScene.exe
+     1>Done Building Project "C:\build\04SettingComplexScene\04SettingComplexScene.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.65

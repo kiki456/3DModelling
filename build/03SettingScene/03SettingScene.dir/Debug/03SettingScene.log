@@ -1,0 +1,10 @@
+﻿Build started 15/12/2015 12:06:41.
+     1>Project "C:\build\03SettingScene\03SettingScene.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\build\03SettingScene\Debug\03SettingScene.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:/OpenSG.Support/lib /LIBPATH:C:/OpenSG.Support/lib/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib C:\OpenSG\lib\debug\OSGBaseD.lib C:\OpenSG\lib\debug\OSGClusterD.lib C:\OpenSG\lib\debug\OSGDrawableD.lib C:\OpenSG\lib\debug\OSGFileIOD.lib C:\OpenSG\lib\debug\OSGGroupD.lib C:\OpenSG\lib\debug\OSGStateD.lib C:\OpenSG\lib\debug\OSGSystemD.lib C:\OpenSG\lib\debug\OSGUtilD.lib C:\OpenSG\lib\debug\OSGWindowD.lib C:\OpenSG\lib\debug\OSGWindowGLUTD.lib osgglutD.lib "libboost_system-vc110-mt-gd.lib" /NODEFAULTLIB:freeglut.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/build/03SettingScene/Debug/03SettingScene.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/build/03SettingScene/Debug/03SettingScene.lib" /MACHINE:X64  /debug 03SettingScene.dir\Debug\03SettingScene.obj
+         03SettingScene.vcxproj -> C:\build\03SettingScene\Debug\03SettingScene.exe
+     1>Done Building Project "C:\build\03SettingScene\03SettingScene.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.96
